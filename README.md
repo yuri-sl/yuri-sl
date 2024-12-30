@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and exploring new technologies.
 - 🔭 I’m working on various open-source projects.
 - 💬 Ask me about anything related to web development and software engineering.
-- 📫 How to reach me: [yuri@example.com](mailto:yuri@example.com)
+- 📫 How to reach me: [yuri@example.com](mailto:yuri03ysl@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
