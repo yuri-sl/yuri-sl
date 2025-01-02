@@ -5,7 +5,6 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning and exploring new technologies.
-- 🔭 I’m working on various open-source projects.
 - 💬 Ask me about anything related to web development and software engineering.
 - 📫 How to reach me: [yuri03ysl@gmail.com](mailto:yuri03ysl@gmail.com)
 
