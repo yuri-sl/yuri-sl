@@ -7,7 +7,8 @@
 I'm a passionate developer who loves building modern web applications and learning new technologies.  
 Currently diving deeper into **Fullstack Development**, especially with **Angular**, **TypeScript**, and **PostgreSQL**.
 
-- 🌱 I’m currently focusing on developing as a Fullstack Developer
+- 🌱 I’m currently focusing on developing as a Fullstack Developer.
+- 🌱 I've recently started studying CyberSecurity and Artificial Intelligence.
 - 💬 Feel free to ask me anything about web development or software engineering.
 - 📫 Reach me at: [yuri03ysl@gmail.com](mailto:yuri03ysl@gmail.com)
 
