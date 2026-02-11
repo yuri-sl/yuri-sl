@@ -68,8 +68,8 @@ I'm a developer passionate about creating robust software and continuously learn
 
 ## 📊 GitHub Stats
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-sl&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-sl&layout=compact&theme=tokyonight&hide=html)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-sl&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-sl&layout=compact&theme=tokyonight&hide=html&cache_seconds=21600)
 
 ---
 
